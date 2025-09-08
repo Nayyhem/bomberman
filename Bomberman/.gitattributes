@@ -1,3 +1,2 @@
-src/main/resources/fr/univartois/butinfo/ihm/view/bomb-selection-view.fxml linguist-detectable=false
-src/main/resources/fr/univartois/butinfo/ihm/view/bomberman-view.fxml linguist-detectable=false
+*.fxml linguist-detectable=false
 
